@@ -3,3 +3,6 @@ source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
 # fnm (Node.js version manager)
 eval "$(fnm env --use-on-cd)"
 
+# Rust
+source "$HOME/.cargo/env"
+

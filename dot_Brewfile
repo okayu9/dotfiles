@@ -3,6 +3,7 @@ brew "git"
 brew "zsh"
 brew "fnm"
 brew "uv"
+brew "rustup"
 
 cask "1password"
 cask "1password-cli"
