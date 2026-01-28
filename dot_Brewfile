@@ -12,4 +12,5 @@ cask "karabiner-elements"
 cask "claude-code"
 cask "dropbox"
 cask "ghostty"
+cask "font-hackgen-nerd"
 

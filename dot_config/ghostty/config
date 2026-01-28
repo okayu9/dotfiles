@@ -1,0 +1,14 @@
+# Font
+font-family = HackGen Console NF
+font-size = 14
+
+# Theme
+theme = Catppuccin Mocha
+
+# Window
+window-padding-x = 8
+window-padding-y = 8
+window-decoration = true
+
+# macOS
+macos-option-as-alt = true
