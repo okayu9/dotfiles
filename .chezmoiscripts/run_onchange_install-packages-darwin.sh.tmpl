@@ -1,0 +1,10 @@
+{{ if eq .chezmoi.os "darwin" -}}
+#!/bin/bash
+set -euo pipefail
+
+# Brewfile hash: {{ include "dot_Brewfile" | sha256sum }}
+
+command -v brew >/dev/null 2>&1 || exit 0
+brew bundle --global
+{{ end -}}
+
