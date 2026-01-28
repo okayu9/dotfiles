@@ -14,4 +14,5 @@ cask "dropbox"
 cask "ghostty"
 cask "font-hackgen-nerd"
 cask "shottr"
+cask "visual-studio-code"
 
