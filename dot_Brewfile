@@ -2,6 +2,7 @@ brew "chezmoi"
 brew "git"
 brew "zsh"
 brew "fnm"
+brew "uv"
 
 cask "1password"
 cask "1password-cli"
